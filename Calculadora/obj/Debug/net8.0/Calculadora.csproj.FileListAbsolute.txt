@@ -12,3 +12,4 @@ C:\Projetos\ModuloTestes\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
 C:\Projetos\ModuloTestes\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 C:\Projetos\ModuloTestes\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Projetos\ModuloTestes\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Projetos\ModuloTestes\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
