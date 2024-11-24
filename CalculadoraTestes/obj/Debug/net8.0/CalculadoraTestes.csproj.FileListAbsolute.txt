@@ -103,3 +103,4 @@ C:\Projetos\ModuloTestes\CalculadoraTestes\obj\Debug\net8.0\refint\CalculadoraTe
 C:\Projetos\ModuloTestes\CalculadoraTestes\obj\Debug\net8.0\CalculadoraTestes.pdb
 C:\Projetos\ModuloTestes\CalculadoraTestes\obj\Debug\net8.0\CalculadoraTestes.genruntimeconfig.cache
 C:\Projetos\ModuloTestes\CalculadoraTestes\obj\Debug\net8.0\ref\CalculadoraTestes.dll
+C:\Projetos\ModuloTestes\CalculadoraTestes\obj\Debug\net8.0\CalculadoraTestes.sourcelink.json
